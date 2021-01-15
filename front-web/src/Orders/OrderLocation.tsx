@@ -55,7 +55,7 @@ function OrderLocation({ onChangeLocation }: Props) {
       };
 
     return (
-        <div className="orders-location-container">
+        <div className="order-location-container">
             <div className="order-location-content">
                 <h3 className="order-location-title">
                     Selecione onde o pedido deve ser entregue:
